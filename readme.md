@@ -10,7 +10,7 @@
  <h2><b>Background on Bikeshare Project #2</b></h2>
  <p1>
 
-<p>This is the accompanying readme file for <i style="color:blue;">"UT_BIT-Project#2_bikeshare.py"</i>. This python file can be executed from the python terminal prompt. <b>Python 3.8</b> and <b>Microsoft Visual Studio Code</b> was used to generate this <i>.py</i> file. Each function generates a graph if the proper conditions are met. The graphs appear as seperate windows and when the program is stopped, these windows will close. The windows during testing appear to stack ontop of each other thus the windows may need to be manually moved over to see each figure.</p>
+<p>This is the accompanying readme file for <i style="color:blue;">"UT_BIT-Project#2_bikeshare.py"</i>. This python file can be executed from the python terminal prompt. <b>Python 3.8</b> and <b>Microsoft Visual Studio Code</b> was used to generate this <i>.py</i> file. Each function generates a graph if the proper conditions are met. The graphs appear as seperate windows and when the program is stopped, these windows will close. The windows during testing appear to stack ontop of each other thus the windows may need to be manually moved over to see each figure.The windows close upon responding "no" to starting over. </p>
 
 
 
