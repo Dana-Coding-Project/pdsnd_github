@@ -1,3 +1,8 @@
+"""The purpose of this program is to take user input and explore bikeshare data from three major US cities. 
+   The user can input responses based on the city, the month, and the day and analyze the data sets using those
+   arguments. The ouput is both textual and visual."""
+
+#python dependencies for this program
 import pandas as pd
 import numpy as np
 import time
