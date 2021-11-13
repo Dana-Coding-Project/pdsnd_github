@@ -1,3 +1,8 @@
+"""The purpose of this program is to take user input and explore bikeshare data from three major US cities. 
+   The user can input responses based on the city, the month, and the day and analyze the data sets using those
+   arguments. The ouput is both textual and visual."""
+
+#python dependencies for this program
 import pandas as pd
 import numpy as np
 import time
@@ -13,7 +18,6 @@ CITY_DATA = { 'chicago': 'chicago.csv',
 def get_filters():
     """
     Asks user to specify a city, month, and day to analyze.
-
     Returns:
         (str) city - name of the city to analyze
         (str) month - name of the month to filter by, or "all" to apply no month filter
@@ -43,7 +47,6 @@ def get_filters():
 def load_data(city, month, day):
     """
     Loads data for the specified city and filters by month and day if applicable.
-
     Args:
         (str) city - name of the city to analyze
         (str) month - name of the month to filter by, or "all" to apply no month filter
