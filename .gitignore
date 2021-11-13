@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 .github/**
+=======
+#ignore the CSV data files
+*.csv
+>>>>>>> BIT-master
