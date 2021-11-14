@@ -18,7 +18,7 @@
 
 
 
-<h3>Resources</h3>
+<h3><u>Resources</u></h3>
 <ul>"https://docs.python.org/3/library/calendar.html"</ul>
 <ul>"https://stackoverflow.com/questions/55719762/how-to-calculate-mode-over-two-columns-in-a-python-dataframe"</ul>
 <ul>Udacity's Blacks In Technology Program, Project: Explore US Bikeshare Data, Practice Solution #3<ul>
