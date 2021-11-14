@@ -7,6 +7,9 @@
     <img src="images/christina-wocintechchat-com-YPcnjFweo40-unsplash.jpg" style="width:100%"><figcaption>Photo by <a href="https://unsplash.com/@wocintechchat?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Christina @ wocintechchat.com</a> on <a href="https://unsplash.com/s/photos/women-of-colour?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></figcaption>
  </figure> 
 
+ <h2><b>Project 3 Submission</b></h2>
+ <p>This project covers the topic of version control using git and github. The skills the project addresses are: <ul><i>Forking repositories</ul><ul>Creating branches</ul><ul>Editing and pushing commits</ul><ul>Merging branches</ul><ul>Pushing to remote repositories</i></ul>This repository is intented to represent all of these skills in a clear manner.</p>
+ 
  <h2><b>Background on Bikeshare Project #2</b></h2>
  <p1>
 
